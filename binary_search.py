@@ -1,3 +1,4 @@
+#binart search algorithm
 def binary_search(list, target):
     first = 0 #Bid-O == O(1)
     last = len(list) - 1  #Big-O for len(list) == O(1)
